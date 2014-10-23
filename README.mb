@@ -1,0 +1,12 @@
+##  About
+This bookmarklet assists in development for the Spicy Framework by helping to visually distingushing breakpoints.
+
+## What are Bookmarklets?
+A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands to extend the browser's functionality.
+[More information](http://en.wikipedia.org/wiki/Bookmarklet)
+
+## Installation
+"Installation" of a bookmarklet is performed by creating a new bookmark, and pasting the code into the URL destination field. The bookmarklet can then be run by loading the bookmark normally.
+
+## Updating
+Update the raw javascript file, use a [Bookmarklet Creator](http://mrcoles.com/bookmarklet/) to properly wrap and url encode the script, then make sure to output the results into the bookmarklet javascript file.
